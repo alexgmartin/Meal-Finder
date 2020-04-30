@@ -33,6 +33,9 @@ function searchMeal(e) {
               <div class="meal-info" data-mealID="${meal.idMeal}">
                 <h3>${meal.strMeal}</h3>
               </div>
+              <div class="meal-info2">
+                <h3>${meal.strMeal}</h3>
+              </div>
             </div>
           `)
           .join(''); //make it a string again

@@ -91,6 +91,10 @@ input[type="text"] {
   opacity: 1;
 }
 
+.meal-info2 h3 {
+  text-align: center;
+}
+
 .single-meal {
   margin: 30px auto;
   width: 70%;
